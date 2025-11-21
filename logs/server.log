@@ -1,0 +1,32 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [143] using StatReload
+INFO:     Started server process [145]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:48014 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47994 - "GET /api/dashboard/summary?timeframe=Today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47994 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48026 - "GET /api/dashboard/summary?timeframe=Today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47994 - "GET /api/dashboard/live-pnl?points=80 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48026 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48036 - "GET /api/dashboard/live-pnl?points=80 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48050 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48064 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34714 - "GET /api/dashboard/summary?timeframe=Today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34722 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34714 - "GET /api/dashboard/summary?timeframe=Today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34738 - "GET /api/dashboard/live-pnl?points=80 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34722 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34738 - "GET /api/dashboard/live-pnl?points=80 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34752 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34760 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41958 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41950 - "GET /api/dashboard/summary?timeframe=Today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41950 - "GET /api/dashboard/summary?timeframe=Today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41958 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41968 - "GET /api/dashboard/live-pnl?points=80 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41968 - "GET /api/dashboard/live-pnl?points=80 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33342 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33344 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:37630 - "GET /api/alerts HTTP/1.1" 200 OK
